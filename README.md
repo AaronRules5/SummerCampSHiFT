@@ -14,3 +14,6 @@ Do **NOT** push binary Unreal files (.UASSET, .UEXP, .UBULK, .LOCRES, etc.) to t
 Only upload easily editable files such as .OGG, .FBX, .BLEND, .TXT, etc. 
 
 They will be compiled into formats compatible with Friday and provided in a release zip by Aaron or Scolvel.
+
+
+Uploading as little copyrighted files to the repository as possible is appreciated.
