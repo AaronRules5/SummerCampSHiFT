@@ -26,7 +26,7 @@ def main(argv):
     try:
         wrfile = open(argv[1][:len(argv[1])-3]+"data","wb")
     except:
-        print("UMMMMMM?!??!?!")
+        print("Fatal unknown error! Tried to write to file:")
         print(argv[1][:len(argv[1])-3])
         quit()
     wrfile.write(data)
