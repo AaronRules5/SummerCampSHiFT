@@ -7,7 +7,9 @@ Video Tutorial: **[not ready yet]**
 
 #### WARNING: CONFIRM THAT THE STORAGE DEVICE FRIDAY IS INSTALLED ON HAS AT LEAST 18 GIGABYTES OF FREE STORAGE BEFORE CONTINUING ####
 
-1. Download quickbms-friday from https://drive.google.com/file/d/118vFqdnsOpBNRmuWgu0V5aglY6FWniI8/view?usp=sharing
+1. Download quickbms-friday.zip from the most recent version at https://github.com/AaronRules5/SummerCampSHiFT/releases
+
+   **HINT:** Open the "Assets" dropdown, and click quickbms-friday.zip
 
 2. Extract the contents, and have the folder where you extracted it's contents to remain visible.
 
@@ -17,13 +19,13 @@ Video Tutorial: **[not ready yet]**
 
 5. Press any key to begin extraction. This process may take around 30 minutes to complete... Sorry.
 
-6. Once complete, download the most recent release zip at https://github.com/AaronRules5/SummerCampSHiFT/releases
+6. Once complete, download the most recent Release zip at https://github.com/AaronRules5/SummerCampSHiFT/releases
 
    **HINT:** Open the "Assets" dropdown, and download the zip file that starts with "Release", not "Source code".
 
 7. Extract the contents, and copy the "SummerCamp" folder to the same folder where EAC_Launcher.exe resides.
    
-   **HINT:** You'll know you did it right if it asks you to replace files, choose Yes to All.
+   **HINT:** You'll know you did it right if it asks you to replace files. Replace the files in the destination.
 
 8. You're DONE! Mod loading is enabled by default. If you would like to disable or re-enable mod loading, drag EAC_Launcher.exe into Disable-Mods.bat or Enable-Mods.bat
 
