@@ -7,11 +7,11 @@ Video Tutorial: **[not ready yet]**
 
 #### WARNING: CONFIRM THAT THE STORAGE DEVICE FRIDAY IS INSTALLED ON HAS AT LEAST 18 GIGABYTES OF FREE STORAGE BEFORE CONTINUING ####
 
-1. Download quickbms-friday.zip from the most recent version at https://github.com/AaronRules5/SummerCampSHiFT/releases
+1. Download quickbms-friday.zip and the Release zip from the most recent version at https://github.com/AaronRules5/SummerCampSHiFT/releases
 
-   **HINT:** Open the "Assets" dropdown, and click quickbms-friday.zip
+   **HINT:** Open the "Assets" dropdown if it's closed
 
-2. Extract the contents, and have the folder where you extracted it's contents to remain visible.
+2. Extract the contents of quickbms-friday.zip, and have the folder where you extracted it's contents to remain visible.
 
 3. In Steam, Right click on "Friday the 13th: The Game" in the game list, and click on Manage > Browse local files.
 
@@ -19,9 +19,7 @@ Video Tutorial: **[not ready yet]**
 
 5. Press any key to begin extraction. This process may take around 30 minutes to complete... Sorry.
 
-6. Once complete, download the most recent Release zip at https://github.com/AaronRules5/SummerCampSHiFT/releases
-
-   **HINT:** Open the "Assets" dropdown, and download the zip file that starts with "Release", not "Source code".
+6. Once complete, extract the Release zip you downloaded
 
 7. Extract the contents, and copy the "SummerCamp" folder to the same folder where EAC_Launcher.exe resides.
    
