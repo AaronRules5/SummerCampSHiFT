@@ -15,7 +15,7 @@ Video Tutorial: **[not ready yet]**
 
 4. Drag EAC_Launcher.exe from Friday's local files into the Extract-Friday-Assets.bat file that came with the zip you extracted.
 
-5. Press any key to begin extraction. This process may take around 30 minutes to complete.
+5. Press any key to begin extraction. This process may take around 30 minutes to complete... Sorry.
 
 6. Once complete, download the most recent release zip at https://github.com/AaronRules5/SummerCampSHiFT/releases
 
