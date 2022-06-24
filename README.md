@@ -9,7 +9,7 @@ Video Tutorial: **[not ready yet]**
 
 1. Download quickbms-friday.zip and the Release zip from the most recent version at https://github.com/AaronRules5/SummerCampSHiFT/releases
 
-   **HINT:** Open the "Assets" dropdown if it's closed
+   **HINT:** Open the "Assets" dropdown, and download both zip files that do not have "Source code" in the name.
 
 2. Extract the contents of quickbms-friday.zip, and have the folder where you extracted it's contents to remain visible.
 
@@ -19,13 +19,11 @@ Video Tutorial: **[not ready yet]**
 
 5. Press any key to begin extraction. This process may take around 30 minutes to complete... Sorry.
 
-6. Once complete, extract the Release zip you downloaded
-
-7. Extract the contents, and copy the "SummerCamp" folder to the same folder where EAC_Launcher.exe resides.
+6. Extract the contents of the Release zip, and copy the "SummerCamp" folder to the same folder where EAC_Launcher.exe resides.
    
    **HINT:** You'll know you did it right if it asks you to replace files. Replace the files in the destination.
 
-8. You're DONE! Mod loading is enabled by default. If you would like to disable or re-enable mod loading, drag EAC_Launcher.exe into Disable-Mods.bat or Enable-Mods.bat
+7. You're DONE! Mod loading is enabled by default. If you would like to disable or re-enable mod loading, drag EAC_Launcher.exe into Disable-Mods.bat or Enable-Mods.bat
 
 ## Contributing
 
