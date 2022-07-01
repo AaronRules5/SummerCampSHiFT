@@ -3,7 +3,7 @@ A modification of "Friday the 13th: The Game" for SHiFT and his community.
 
 ## Installing
 
-Video Tutorial: **[not ready yet]**
+Video Tutorial: https://www.youtube.com/watch?v=qyHfHogSmXE
 
 #### WARNING: CONFIRM THAT THE STORAGE DEVICE FRIDAY IS INSTALLED ON HAS AT LEAST 18 GIGABYTES OF FREE STORAGE BEFORE CONTINUING ####
 
