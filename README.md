@@ -18,12 +18,14 @@ If you have already installed the mod using the old method in the past, choose o
 2. Drag EAC_Launcher.exe into Disable-Mods.bat
 3. It should say that mod loading has been disabled (You will NOT need to re-enable it later)
 
-Once you have completed either one of the two options, or you are already on a fresh install... you are ready to begin!
+Once you have completed either one of the two options, or you are already on a fresh install, you are ready to begin!
 
-1. Download the newest release ZIP that has "Pak" in the name
-2. Go to Friday the 13th in your Steam library
+https://github.com/AaronRules5/SummerCampSHiFT/releases
+
+1. Download the newest SCSHiFT ZIP that has "Pak" in the name
+2. Go to Friday the 13th: The Game in your Steam library
 3. Click the ⚙ and go to Manage > Browse local files
-4. Copy everything that's in the ZIP folder to this directory
+4. Copy everything that's in the ZIP file to this folder
 5. You're done! Try it out!
 
 ### === OLD LOOSE FILES METHOD ===
